@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="registrar">"Registrar "</string>
+    <string name="Conocenos">"Conocenos "</string>
+    <string name="help">Ayuda</string>
+</resources>
